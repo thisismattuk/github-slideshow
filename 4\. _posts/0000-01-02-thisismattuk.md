@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Mary had a little lamb.
 Use the left arrow to go back!
